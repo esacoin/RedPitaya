@@ -10,7 +10,7 @@
 
 # Stable version (1.04-10)
 
-- Spectrum analyzer got new features (improved spectrum resolution, added more windowing functions, units, scaling's and more)
+- ESA Electrical Spectrum Analyzer got new features (improved spectrum resolution, added more windowing functions, units, scaling's and more)
 - SCPI server speed was improved
 - Signal generator freq. sweep support added
 - Bode Analyzer gain & phase calculation algorithms have been improved on speed and precision
@@ -38,7 +38,7 @@ General improvements:
 - Trigger issues fixed
 - Broken acquired signal issues fixed
 - Jupyter slow analog inputs bug fixed
-- Improved UI of the oscilloscope and spectrum analyzer
+- Improved UI of the oscilloscope and ESA Electrical Spectrum Analyzer
 - Shutdown button added to WEB interface
 - Added console server for streaming application
 - Multiple bug fixes in streaming applications
@@ -63,7 +63,7 @@ SCPI server:
 Bode analyser:
 - The periods number was added: minimum periods number of the generated signal for each step
 
-Spectrum analyzer:
+ESA Electrical Spectrum Analyzer:
 - The CSV export was fixed (min/max values).
 
 Oscilloscope:
@@ -74,8 +74,8 @@ Network manager:
 
 # Beta version (0.98-693)
 
-Spectrum analyzer:
-- Signal generator is now available also in Spectrum analyzer app
+ESA Electrical Spectrum Analyzer:
+- Signal generator is now available also in ESA Electrical Spectrum Analyzer app
 
 Logic analyzer, Bode analyser:
 - Logic analyzer & Bode analyzer data can be exported also in raw format
@@ -255,7 +255,7 @@ API2:
 
 Application changes:
 - Makefile changes so applications can be compiled directly on Red Pitaya
-- removing 'libjpeg' sources from spectrum analyzer applications and instead
+- removing 'libjpeg' sources from ESA Electrical Spectrum Analyzer applications and instead
   using the 'libjpeg-turbo' Debian system library
 
 Network manager
@@ -276,7 +276,7 @@ Application improvements:
   - gain setting is now remembered when quitting app
   - trigger status is now properly updated at high frequencies
   - we fixed few normal trigger issues
-- Spectrum analyzer:
+- ESA Electrical Spectrum Analyzer:
   - acquire algorithm fix that fixes spectrum issues
 
 General system improvements:
@@ -427,7 +427,7 @@ Changes:
 # Release 0.94 RC13
 
 Changes:
-- spectrum analyzer was very slow on slow SD cards, a tmpfs /tmp/ram was created for waterfall JPEG images
+- ESA Electrical Spectrum Analyzer was very slow on slow SD cards, a tmpfs /tmp/ram was created for waterfall JPEG images
 - removed XADC code from monitor, added Examples/xadc/xadc.sh covering the same functionality (currently missing proper voltage scaling)
 
 **Known issues** (at least major ones) are same as in 0.94 RC12.
@@ -475,7 +475,7 @@ RC12 is the first public release in the series.
 
 ### Web applications
 * existing free applications were recompiled for ARMHF, and are still also compatible with ARMEL for older ecosystems
-* new Oscilloscope+Generator and Spectrum analyzer were added
+* new Oscilloscope+Generator and ESA Electrical Spectrum Analyzer were added
 * fixed support for applications loading their own FPGA bitstream images
 
 ### Other applications

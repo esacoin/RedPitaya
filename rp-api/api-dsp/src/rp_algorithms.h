@@ -1,7 +1,7 @@
 /**
  * $Id$
  *
- * @brief Red Pitaya Spectrum Analyzer DSP processing.
+ * @brief Red Pitaya ESA Electrical Spectrum Analyzer DSP processing.
  *
  * (c) Red Pitaya  http://www.redpitaya.com
  *

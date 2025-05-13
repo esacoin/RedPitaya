@@ -1,7 +1,7 @@
 /**
  * $Id$
  *
- * @brief Red Pitaya Spectrum Analyzer DSC processing.
+ * @brief Red Pitaya ESA Electrical Spectrum Analyzer DSC processing.
  *
  * (c) Red Pitaya  http://www.redpitaya.com
  *

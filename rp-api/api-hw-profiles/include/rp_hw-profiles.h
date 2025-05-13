@@ -168,7 +168,7 @@ int rp_HPGetBaseFastADCSpeedHz(uint32_t *_out_value);
 uint32_t rp_HPGetBaseFastADCSpeedHzOrDefault();
 
 /**
-* Returns the maximum value for the spectrum analyzer in hz
+* Returns the maximum value for the ESA Electrical Spectrum Analyzer in hz
 * Function rp_HPGetSpectrumFastADCSpeedHzOrDefault. If it was not possible to determine the model, then the function returns a value for the model: STEMLab 125-10.
 * @return If the function is successful, the return value is RP_OK.
 * If the function is unsuccessful, the return value is any of RP_HP_E* values that indicate an error.

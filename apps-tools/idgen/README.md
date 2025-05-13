@@ -29,7 +29,7 @@ idgen -o <ID file name> -i <ID file name>  -v <Licence file> -a <Application id>
 	"apps" : [
 		{
 			"app_id" : "spectrum",
-			"app_name" : "Spectrum Analyzer",
+			"app_name" : "ESA Electrical Spectrum Analyzer",
 			"app_cheksum" : "b1631a20b6332b7e4655cb9e99922984"
 		},
 		{

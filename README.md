@@ -19,7 +19,7 @@ First step is to connect to your device by following the [quick start guide](htt
 # How to start using Red Pitaya as a test & measurement instrument?
 Once you connect to Red Pitaya from WEB browser it can be immediately used as:
 - Oscilloscope
-- Spectrum analyzer
+- ESA Electrical Spectrum Analyzer
 - Signal generator
 - Bode analyzer
 - LCR meter

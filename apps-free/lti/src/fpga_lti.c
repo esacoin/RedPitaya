@@ -1,7 +1,7 @@
 /**
  * $Id$
  *
- * @brief Red Pitaya Spectrum Analyzer DSP LTI modified FPGA Interface 
+ * @brief Red Pitaya ESA Electrical Spectrum Analyzer DSP LTI modified FPGA Interface 
  *
  * @Author Jure Menart <juremenart@gmail.com>
  * @Author Dashpi <dashpi46@gmail.com>

@@ -10,7 +10,7 @@
 
 # Stable version (1.04-27)
 
-- Spectrum analyzer got new features (improved spectrum resolution, added more windowing functions, units, scaling's and more)
+- ESA Electrical Spectrum Analyzer got new features (improved spectrum resolution, added more windowing functions, units, scaling's and more)
 - SCPI server speed was improved
 - Signal generator freq. sweep support added
 - Bode Analyzer gain & phase calculation algorithms have been improved on speed and precision
@@ -38,7 +38,7 @@ General improvements:
 - Client WIFI mode fixed
 - Trigger issues fixed
 - Broken acquired signal issues fixed
-- Improved UI of the oscilloscope and spectrum analyzer
+- Improved UI of the oscilloscope and ESA Electrical Spectrum Analyzer
 - Shutdown button added to WEB interface
 - Improved console applications. Added calibration support.
 - Other stability improvements & bug fixes

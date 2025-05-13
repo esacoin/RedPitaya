@@ -1,7 +1,7 @@
 /**
  * $Id: worker.h 881 2013-12-16 05:37:34Z rp_jmenart $
  *
- * @brief Red Pitaya Spectrum Analyzer worker.
+ * @brief Red Pitaya ESA Electrical Spectrum Analyzer worker.
  *
  * @Author Jure Menart <juremenart@gmail.com>
  *

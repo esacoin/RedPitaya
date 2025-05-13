@@ -1,6 +1,6 @@
 {
-    "name": "DFT Spectrum Analyser",
+    "name": "DFT ESA Electrical Spectrum Analyzer",
     "version": "2.00-BUILD_NUMBER",
     "revision": "REVISION",
-    "description": "Spectrum Analyser"
+    "description": "ESA Electrical Spectrum Analyzer"
 }
